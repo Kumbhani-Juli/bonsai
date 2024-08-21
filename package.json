@@ -1,8 +1,8 @@
 {
   "name": "project-5",
+  "homepage": "https://github.com/Kumbhani-Juli/bonsai.git",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://github.com/Kumbhani-Juli/bonsai/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-regular-svg-icons": "^6.6.0",
