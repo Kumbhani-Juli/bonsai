@@ -7,10 +7,11 @@ import Footer from "./components/Footer";
 function App() {
 	return (
 		<>
-			<BrowserRouter>
+			<BrowserRouter basename="/bonsai">
 				<Routes>
 					{/* Routes that include Header and Footer */}
 					<Route
+						exact
 						path="/"
 						element={
 							<>
