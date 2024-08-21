@@ -12,7 +12,7 @@ function App() {
 					{/* Routes that include Header and Footer */}
 					<Route
 						exact
-						path="/bonsai"
+						path="/"
 						element={
 							<>
 								<Header />
