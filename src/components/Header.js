@@ -26,7 +26,7 @@ const Header = () => {
 				}}
 			>
 				<div>
-					<a href="/bonsai">
+					<a href="/">
 						<img
 							src={bonsaiLogo}
 							className="img-fluid header-logo"
